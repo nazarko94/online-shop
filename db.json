@@ -1,0 +1,85 @@
+{
+  "products": [
+    {
+      "image": "1.jpg",
+      "name": "Addidas",
+      "price": 1500,
+      "article": "T1",
+      "available": true,
+      "category": "Male",
+      "quantity": 1
+    },
+    {
+      "image": "2.jpg",
+      "name": "Nike",
+      "price": 1200,
+      "article": "T2",
+      "available": true,
+      "category": "Female",
+      "quantity": 1
+    },
+    {
+      "image": "3.jpg",
+      "name": "Puma",
+      "price": 980,
+      "article": "T3",
+      "available": false,
+      "category": "Female",
+      "quantity": 1
+    },
+    {
+      "image": "4.jpg",
+      "name": "Reebok",
+      "price": 1680,
+      "article": "T4",
+      "available": true,
+      "category": "Male",
+      "quantity": 1
+    },
+    {
+      "image": "5.jpg",
+      "name": "Nike",
+      "price": 1900,
+      "article": "T5",
+      "available": false,
+      "category": "Female",
+      "quantity": 1
+    },
+    {
+      "image": "6.jpg",
+      "name": "Addidas",
+      "price": 1799,
+      "article": "T6",
+      "available": true,
+      "category": "Female",
+      "quantity": 1
+    },
+    {
+      "image": "7.jpg",
+      "name": "Puma",
+      "price": 1399,
+      "article": "T7",
+      "available": true,
+      "category": "Male",
+      "quantity": 1
+    },
+    {
+      "image": "8.jpg",
+      "name": "Reebok",
+      "price": 1449,
+      "article": "T8",
+      "available": true,
+      "category": "Female",
+      "quantity": 1
+    },
+    {
+      "image": "9.jpg",
+      "name": "Nike",
+      "price": 999,
+      "article": "T9",
+      "available": true,
+      "category": "Female",
+      "quantity": 1
+    }
+  ]
+}
